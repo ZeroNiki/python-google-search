@@ -51,7 +51,7 @@ pyinstaller --onefile search.py
 
 ### В случае возникновения ошибок 
 Возможно будет вот такая ошибка:
-[Error png]('https://github.com/ZeroNiki/python-google-search/blob/main/content/error.png')
+[Error png](https://github.com/ZeroNiki/python-google-search/blob/main/content/error.png)
 
 Просто перезапустите скрипт
 
@@ -110,7 +110,7 @@ go to the dist/ directory and run the file:
 
 ### In case of errors
 Perhaps there will be an error like this:
-[Error png]('https://github.com/ZeroNiki/python-google-search/blob/main/content/error.png')
+[Error png](https://github.com/ZeroNiki/python-google-search/blob/main/content/error.png)
 
 Just restart the script
 
